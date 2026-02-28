@@ -1,0 +1,388 @@
+{
+  "source_file": "cdiscpilot01.pdf",
+  "source_pages": 492,
+  "extraction_date": "2026-02-27T15:05:21Z",
+  "narrative": {
+    "file": "pdf/narrative_body.pdf",
+    "pages_in_source": [
+      1,
+      42
+    ],
+    "page_count": 42
+  },
+  "tlfs": [
+    {
+      "id": "Table 14-1.01",
+      "type": "table",
+      "title": "Summary of Populations",
+      "file": "pdf/Table_14-1.01.pdf",
+      "pages_in_source": [
+        43,
+        43
+      ],
+      "page_count": 1,
+      "population": "All Subjects"
+    },
+    {
+      "id": "Table 14-1.02",
+      "type": "table",
+      "title": "Summary of End of Study Data",
+      "file": "pdf/Table_14-1.02.pdf",
+      "pages_in_source": [
+        44,
+        44
+      ],
+      "page_count": 1,
+      "population": "Intent-to-Treat"
+    },
+    {
+      "id": "Table 14-1.03",
+      "type": "table",
+      "title": "Summary of Number of Subjects By Site",
+      "file": "pdf/Table_14-1.03.pdf",
+      "pages_in_source": [
+        45,
+        45
+      ],
+      "page_count": 1,
+      "population": "All Subjects"
+    },
+    {
+      "id": "Table 14-2.01",
+      "type": "table",
+      "title": "Summary of Demographic and Baseline Characteristics",
+      "file": "pdf/Table_14-2.01.pdf",
+      "pages_in_source": [
+        46,
+        48
+      ],
+      "page_count": 3,
+      "population": "Intent-to-Treat"
+    },
+    {
+      "id": "Table 14-3.01",
+      "type": "table",
+      "title": "Primary Endpoint Analysis: ADAS Cog (11) - Change from Baseline to Week 24 - LOCF",
+      "file": "pdf/Table_14-3.01.pdf",
+      "pages_in_source": [
+        49,
+        49
+      ],
+      "page_count": 1,
+      "population": "Efficacy"
+    },
+    {
+      "id": "Table 14-3.02",
+      "type": "table",
+      "title": "Primary Endpoint Analysis: CIBIC+ - Summary at Week 24 - LOCF",
+      "file": "pdf/Table_14-3.02.pdf",
+      "pages_in_source": [
+        50,
+        50
+      ],
+      "page_count": 1,
+      "population": "Efficacy"
+    },
+    {
+      "id": "Table 14-3.03",
+      "type": "table",
+      "title": "ADAS Cog (11) - Change from Baseline to Week 8 - LOCF",
+      "file": "pdf/Table_14-3.03.pdf",
+      "pages_in_source": [
+        51,
+        51
+      ],
+      "page_count": 1,
+      "population": "Efficacy"
+    },
+    {
+      "id": "Table 14-3.04",
+      "type": "table",
+      "title": "CIBIC+ - Summary at Week 8 - LOCF",
+      "file": "pdf/Table_14-3.04.pdf",
+      "pages_in_source": [
+        52,
+        52
+      ],
+      "page_count": 1,
+      "population": "Efficacy"
+    },
+    {
+      "id": "Table 14-3.05",
+      "type": "table",
+      "title": "ADAS Cog (11) - Change from Baseline to Week 16 - LOCF",
+      "file": "pdf/Table_14-3.05.pdf",
+      "pages_in_source": [
+        53,
+        53
+      ],
+      "page_count": 1,
+      "population": "Efficacy"
+    },
+    {
+      "id": "Table 14-3.06",
+      "type": "table",
+      "title": "CIBIC+ - Summary at Week 16 - LOCF",
+      "file": "pdf/Table_14-3.06.pdf",
+      "pages_in_source": [
+        54,
+        54
+      ],
+      "page_count": 1,
+      "population": "Efficacy"
+    },
+    {
+      "id": "Table 14-3.07",
+      "type": "table",
+      "title": "ADAS Cog (11) - Change from Baseline to Week 24 - Completers at Wk 24-Observed Cases-Windowed",
+      "file": "pdf/Table_14-3.07.pdf",
+      "pages_in_source": [
+        55,
+        55
+      ],
+      "page_count": 1,
+      "population": "Completers"
+    },
+    {
+      "id": "Table 14-3.08",
+      "type": "table",
+      "title": "ADAS Cog (11) - Change from Baseline to Week 24 in Male Subjects - LOCF",
+      "file": "pdf/Table_14-3.08.pdf",
+      "pages_in_source": [
+        56,
+        56
+      ],
+      "page_count": 1,
+      "population": "Efficacy"
+    },
+    {
+      "id": "Table 14-3.09",
+      "type": "table",
+      "title": "ADAS Cog (11) - Change from Baseline to Week 24 in Female Subjects - LOCF",
+      "file": "pdf/Table_14-3.09.pdf",
+      "pages_in_source": [
+        57,
+        57
+      ],
+      "page_count": 1,
+      "population": "Efficacy"
+    },
+    {
+      "id": "Table 14-3.10",
+      "type": "table",
+      "title": "ADAS Cog (11) - Mean and Mean Change from Baseline over Time",
+      "file": "pdf/Table_14-3.10.pdf",
+      "pages_in_source": [
+        58,
+        58
+      ],
+      "page_count": 1,
+      "population": "Efficacy"
+    },
+    {
+      "id": "Table 14-3.11",
+      "type": "table",
+      "title": "ADAS Cog (11) - Repeated Measures Analysis of Change from Baseline to Week 24",
+      "file": "pdf/Table_14-3.11.pdf",
+      "pages_in_source": [
+        59,
+        59
+      ],
+      "page_count": 1,
+      "population": "Efficacy"
+    },
+    {
+      "id": "Table 14-3.12",
+      "type": "table",
+      "title": "Mean NPI-X Total Score from Week 4 through Week 24 - Windowed",
+      "file": "pdf/Table_14-3.12.pdf",
+      "pages_in_source": [
+        60,
+        60
+      ],
+      "page_count": 1,
+      "population": "Efficacy"
+    },
+    {
+      "id": "Table 14-3.13",
+      "type": "table",
+      "title": "CIBIC+ - Categorical Analysis - LOCF",
+      "file": "pdf/Table_14-3.13.pdf",
+      "pages_in_source": [
+        61,
+        61
+      ],
+      "page_count": 1,
+      "population": "Efficacy"
+    },
+    {
+      "id": "Table 14-4.01",
+      "type": "table",
+      "title": "Summary of Planned Exposure to Study Drug, as of End of Study",
+      "file": "pdf/Table_14-4.01.pdf",
+      "pages_in_source": [
+        62,
+        62
+      ],
+      "page_count": 1,
+      "population": "Safety"
+    },
+    {
+      "id": "Table 14-5.01",
+      "type": "table",
+      "title": "Incidence of Treatment Emergent Adverse Events by Treatment Group",
+      "file": "pdf/Table_14-5.01.pdf",
+      "pages_in_source": [
+        63,
+        78
+      ],
+      "page_count": 16,
+      "population": "Safety"
+    },
+    {
+      "id": "Table 14-5.02",
+      "type": "table",
+      "title": "Incidence of Treatment Emergent Serious Adverse Events by Treatment Group",
+      "file": "pdf/Table_14-5.02.pdf",
+      "pages_in_source": [
+        79,
+        79
+      ],
+      "page_count": 1,
+      "population": "Safety"
+    },
+    {
+      "id": "Table 14-6.01",
+      "type": "table",
+      "title": "Summary Statistics for Continuous Laboratory Values",
+      "file": "pdf/Table_14-6.01.pdf",
+      "pages_in_source": [
+        80,
+        94
+      ],
+      "page_count": 15,
+      "population": "Safety"
+    },
+    {
+      "id": "Table 14-6.02",
+      "type": "table",
+      "title": "Frequency of Normal and Abnormal (Beyond Normal Range) Laboratory Values During Treatment",
+      "file": "pdf/Table_14-6.02.pdf",
+      "pages_in_source": [
+        95,
+        96
+      ],
+      "page_count": 2,
+      "population": "Safety"
+    },
+    {
+      "id": "Table 14-6.03",
+      "type": "table",
+      "title": "Frequency of Normal and Abnormal (Clinically Significant Change from Previous Visit) Laboratory Values",
+      "file": "pdf/Table_14-6.03.pdf",
+      "pages_in_source": [
+        97,
+        98
+      ],
+      "page_count": 2,
+      "population": "Safety"
+    },
+    {
+      "id": "Table 14-6.04",
+      "type": "table",
+      "title": "Shifts of Laboratory Values During Treatment, Categorized Based on Threshold Ranges, by Visit",
+      "file": "pdf/Table_14-6.04.pdf",
+      "pages_in_source": [
+        99,
+        131
+      ],
+      "page_count": 33,
+      "population": "Safety"
+    },
+    {
+      "id": "Table 14-6.05",
+      "type": "table",
+      "title": "Shifts of Laboratory Values During Treatment, Categorized Based on Threshold Ranges",
+      "file": "pdf/Table_14-6.05.pdf",
+      "pages_in_source": [
+        132,
+        137
+      ],
+      "page_count": 6,
+      "population": "Safety"
+    },
+    {
+      "id": "Table 14-6.06",
+      "type": "table",
+      "title": "Shifts of Hy's Law Values During Treatment",
+      "file": "pdf/Table_14-6.06.pdf",
+      "pages_in_source": [
+        138,
+        138
+      ],
+      "page_count": 1,
+      "population": "Safety"
+    },
+    {
+      "id": "Table 14-7.01",
+      "type": "table",
+      "title": "Summary of Vital Signs at Baseline and End of Treatment",
+      "file": "pdf/Table_14-7.01.pdf",
+      "pages_in_source": [
+        139,
+        143
+      ],
+      "page_count": 5,
+      "population": "Safety"
+    },
+    {
+      "id": "Table 14-7.02",
+      "type": "table",
+      "title": "Summary of Vital Signs Change from Baseline at End of Treatment",
+      "file": "pdf/Table_14-7.02.pdf",
+      "pages_in_source": [
+        144,
+        147
+      ],
+      "page_count": 4,
+      "population": "Safety"
+    },
+    {
+      "id": "Table 14-7.03",
+      "type": "table",
+      "title": "Summary of Weight Change from Baseline at End of Treatment",
+      "file": "pdf/Table_14-7.03.pdf",
+      "pages_in_source": [
+        148,
+        148
+      ],
+      "page_count": 1,
+      "population": "Safety"
+    },
+    {
+      "id": "Table 14-7.04",
+      "type": "table",
+      "title": "Summary of Concomitant Medications (Number of Subjects)",
+      "file": "pdf/Table_14-7.04.pdf",
+      "pages_in_source": [
+        149,
+        150
+      ],
+      "page_count": 2,
+      "population": "Safety"
+    },
+    {
+      "id": "Figure 14-1",
+      "type": "figure",
+      "title": "Time to Dermatologic Event by Treatment Group",
+      "file": "pdf/Figure_14-1.pdf",
+      "pages_in_source": [
+        151,
+        151
+      ],
+      "page_count": 1,
+      "population": "Safety",
+      "source_program": "C:\\cdisc_pilot\\PROGRAMS\\DRAFT\\TFLs\\kmfigure.sas"
+    }
+  ]
+}

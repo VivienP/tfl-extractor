@@ -1,0 +1,70 @@
+Protocol: CDISCPILOT01                                                                  Page  1 of 1 
+Population: Safety 
+Table 14-5.02 
+Incidence of Treatment Emergent Serious Adverse Events by Treatment Group 
+ 
+ 
+Note:  Treatment emergent events are defined as events which start on or after the start of treatment. 
+Note:  Adverse events are coded using MedDRA. 
+Note:  Percentages are based on the number of subjects in the safety population within each treatment 
+group. 
+Note:  P-values are based on Fisher's Exact test for the comparison of placebo versus each active treatment 
+group.  An asterisk is appended to p-values that are less than 0.15. 
+Note:  The column [AE] represents the total number of times an event was recorded. 
+Source: C:\cdisc_pilot\PROGRAMS\DRAFT\TFLs\saetable.sas                  21:44 Monday, June 26, 2006 
+ 
+Placebo 
+((N=86) 
+Xanomeline Low 
+(N=84) 
+XanomelineHigh 
+(N=84) 
+Fisher's Exact 
+p-values 
+System Organ Class/ 
+Preferred Term 
+n(%) 
+[AEs] 
+n(%) 
+[AEs] 
+n(%) 
+[AEs] 
+Placebo
+vs. 
+Low Dose
+Placebo
+vs. 
+High Dose
+ 
+ANY BODY SYSTEM 
+   0 
+ 
+   1 ( 1.2%) [1] 
+   2 ( 2.4%) [2] 
+0.494 
+0.243 
+ 
+NERVOUS SYSTEM DISORDERS 
+   0 
+ 
+   1 ( 1.2%) [1] 
+   2 ( 2.4%) [2] 
+0.494 
+0.243 
+  SYNCOPE 
+   0 
+ 
+   1 ( 1.2%) [1] 
+   1 ( 1.2%) [1] 
+0.494 
+0.494 
+  PARTIAL SEIZURES WITH 
+SECONDARY GENERA 
+   0 
+ 
+   0 
+ 
+   1 ( 1.2%) [1] 
+ 
+0.494 
+ 

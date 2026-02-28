@@ -1,0 +1,61 @@
+Protocol: CDISCPILOT01                                                                  Page  1 of 1 
+Population: Efficacy 
+Table 14-3.02 
+Primary Endpoint Analysis: CIBIC+ - Summary at Week 24 - LOCF 
+ 
+ 
+[1] Based on Analysis of covariance (ANCOVA) model with treatment and site group as factors. 
+[2] Test for a non-zero coefficient for treatment (dose) as a continuous variable. 
+[3] Pairwise comparison with treatment as a categorical variable: p-values without adjustment for multiple 
+comparisons. 
+Source: C:\cdisc_pilot\PROGRAMS\DRAFT\TFLs\rtf_eff1.sas                  21:05 Monday, June 26, 2006 
+ 
+Placebo 
+ (N=79)  
+Xanomeline 
+ Low Dose 
+ (N=81)  
+Xanomeline 
+ High Dose 
+ (N=74)  
+Week 24 
+  n                                   79 
+  81 
+  74 
+  Mean (SD)                            4.3 (0.77) 
+   4.2 (0.79) 
+   4.3 (0.81) 
+  Median (Range)                       4.0 (2;6) 
+   4.0 (2;6) 
+   4.0 (3;6) 
+ 
+  p-value(Dose Response) [1][2]      
+ 
+  0.960 
+ 
+  p-value(Xan - Placebo) [1][3]     
+ 
+   0.489 
+   0.799 
+   Diff of LS Means (SE)            
+ 
+-0.1 (0.13) 
+0.0 (0.13) 
+   95% CI                           
+ 
+(-0.3;0.2) 
+(-0.2;0.3) 
+ 
+  p-value(Xan High - Xan Low)[1][3]  
+ 
+ 
+   0.349 
+   Diff of LS Means (SE)            
+ 
+ 
+0.1 (0.13) 
+   95% CI                           
+ 
+ 
+(-0.1;0.4) 
+ 

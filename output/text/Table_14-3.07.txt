@@ -1,0 +1,84 @@
+Protocol: CDISCPILOT01                                                                  Page  1 of 1 
+Population: Completers 
+Table 14-3.07 
+ADAS Cog (11) - Change from Baseline to Week 24 - Completers at Wk 24-Observed Cases-Windowed 
+ 
+ 
+[1] Based on Analysis of covariance (ANCOVA) model with treatment and site group as factors and baseline 
+value as a covariate. 
+[2] Test for a non-zero coefficient for treatment (dose) as a continuous variable. 
+[3] Pairwise comparison with treatment as a categorical variable: p-values without adjustment for multiple 
+comparisons. 
+Note that only assessments falling within the assessment window are included in the summary for a visit. 
+Source: C:\cdisc_pilot\PROGRAMS\DRAFT\TFLs\rtf_eff1.sas                  21:05 Monday, June 26, 2006 
+ 
+Placebo 
+ (N=60)  
+Xanomeline 
+ Low Dose 
+ (N=28)  
+Xanomeline 
+ High Dose 
+ (N=30)  
+Baseline 
+  n                                   59 
+  27 
+  30 
+  Mean (SD)                           23.2 (11.74) 
+  24.0 (13.89) 
+  20.5 (11.50) 
+  Median (Range)                      21.0 (5;51) 
+  20.0 (5;57) 
+  18.0 (3;49) 
+Week 24 
+  n                                   59 
+  27 
+  30 
+  Mean (SD)                           25.3 (13.32) 
+  24.1 (11.87) 
+  21.8 (12.60) 
+  Median (Range)                      23.0 (5;58) 
+  22.0 (8;51) 
+  18.5 (3;44) 
+Change from Baseline 
+  n                                   59 
+  27 
+  30 
+  Mean (SD)                            2.1 (5.89) 
+   0.1 (5.86) 
+   1.3 (4.51) 
+  Median (Range)                       2.0 (-11;16) 
+   1.0 (-11;12) 
+   1.0 (-7;13) 
+ 
+  p-value(Dose Response) [1][2]     
+ 
+ 
+  0.234 
+ 
+  p-value(Xan - Placebo) [1][3]     
+ 
+   0.105 
+   0.461 
+   Diff of LS Means (SE)            
+ 
+-2.1 (1.26) 
+-0.9 (1.22) 
+   95% CI                           
+ 
+(-4.6;0.4) 
+(-3.3;1.5) 
+ 
+  p-value(Xan High - Xan Low) [1][3]
+ 
+ 
+   0.430 
+   Diff of LS Means (SE)            
+ 
+ 
+1.2 (1.47) 
+   95% CI                           
+ 
+ 
+(-1.8;4.1) 
+ 

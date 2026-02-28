@@ -1,0 +1,59 @@
+Protocol: CDISCPILOT01                                                                  Page  1 of 1 
+Population: Intent-to-Treat 
+Table 14-1.02 
+Summary of End of Study Data 
+ 
+ 
+[1] Fisher's exact test. 
+[2] Based on either patient/caregiver perception or physician perception. 
+Source: C:\cdisc_pilot\PROGRAMS\DRAFT\TFLs\adsl2.sas                     21:02 Monday, June 26, 2006 
+ 
+Placebo 
+(N=86) 
+Xanomeline 
+Low Dose 
+(N=84) 
+Xanomeline
+High Dose
+(N=84) 
+Total 
+(N=254) p-value[1]
+ 
+Completion Status: 
+  Completed Week 24 
+  60 ( 70%)   28 ( 33%)   30 ( 36%)  118 ( 46%) <.0001 
+  Early Termination (prior to Week 24)   26 ( 30%)   56 ( 67%)   54 ( 64%)  136 ( 54%)
+ 
+  Missing 
+   0 (  0%)    0 (  0%)    0 (  0%)    0 (  0%)
+ 
+ 
+Reason for Early Termination (prior to Week 24): 
+  Adverse Event 
+   8 (  9%)   44 ( 52%)   39 ( 46%)   91 ( 36%) <.0001 
+  Death 
+   1 (  1%)    1 (  1%)    0 (  0%)    2 (  1%)
+ 
+  Lack of Efficacy[2] 
+   3 (  3%)    0 (  0%)    1 (  1%)    4 (  2%) 0.3281 
+  Lost to Follow-up 
+   1 (  1%)    0 (  0%)    0 (  0%)    1 (  0%)
+ 
+  Subject decided to withdraw 
+   9 ( 10%)    8 ( 10%)    8 ( 10%)   25 ( 10%)
+ 
+  Physician decided to withdraw subject    1 (  1%)    0 (  0%)    2 (  2%)    3 (  1%)
+ 
+  Protocol criteria not met 
+   1 (  1%)    0 (  0%)    2 (  2%)    3 (  1%)
+ 
+  Protocol violation 
+   1 (  1%)    1 (  1%)    1 (  1%)    3 (  1%)
+ 
+  Sponsor decision 
+   1 (  1%)    2 (  2%)    1 (  1%)    4 (  2%)
+ 
+  Missing 
+   0 (  0%)    0 (  0%)    0 (  0%)    0 (  0%)
+ 
+ 

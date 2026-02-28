@@ -1,0 +1,49 @@
+Protocol: CDISCPILOT01                                                                  Page  1 of 1 
+Population: All Subjects 
+Table 14-1.01 
+Summary of Populations 
+ 
+ 
+NOTE: N in column headers represents number of subjects entered in study (i.e., signed informed consent). 
+The ITT population includes all subjects randomized.  The Safety population includes all randomized 
+subjects known to have taken at least one dose of randomized study drug. The Efficacy population includes 
+all subjects in the safety population who also have at least one post-baseline ADAS-Cog and CIBIC+ 
+assessment. 
+Source: C:\cdisc_pilot\PROGRAMS\DRAFT\TFLs\adsl1.sas                     21:02 Monday, June 26, 2006 
+ 
+Placebo 
+(N=86) 
+Xanomeline 
+Low Dose 
+(N=84) 
+Xanomeline
+High Dose
+(N=84) 
+Total 
+(N=254) 
+Intent-To-Treat (ITT) 
+ 86 (100%)
+ 84 (100%)
+ 84 (100%)
+254 (100%)
+Safety 
+ 86 (100%)
+ 84 (100%)
+ 84 (100%)
+254 (100%)
+Efficacy 
+ 79 ( 92%)
+ 81 ( 96%)
+ 74 ( 88%)
+234 ( 92%)
+Complete Week 24 
+ 60 ( 70%)
+ 28 ( 33%)
+ 30 ( 36%)
+118 ( 46%)
+Complete Study 
+ 58 ( 67%)
+ 25 ( 30%)
+ 27 ( 32%)
+110 ( 43%)
+ 

@@ -1,0 +1,124 @@
+Protocol: CDISCPILOT01                                                                  Page  1 of 1 
+Population: Safety 
+Table 14-4.01 
+Summary of Planned Exposure to Study Drug, as of End of Study 
+ 
+ 
+[1] Includes completers and early terminators. 
+[2] End of Study refers to week 26/Early Termination. 
+Source: C:\cdisc_pilot\PROGRAMS\DRAFT\TFLs\adsl12.sas                    21:02 Monday, June 26, 2006 
+ 
+Completers at Week 24 
+Safety Population [1] 
+ 
+________________________________ ________________________________
+ 
+Placebo 
+(N=60) 
+Xanomeline
+Low Dose
+(N=28) 
+Xanomeline
+High Dose
+(N=30) 
+Placebo 
+(N=86) 
+Xanomeline
+Low Dose
+(N=84) 
+Xanomeline
+High Dose
+(N=84) 
+ 
+Average daily dose (mg)            n 
+   60 
+   28 
+   30 
+   86 
+   84 
+   84 
+ 
+mean     0.0 
+   54.0 
+   77.0 
+    0.0 
+   54.0 
+   71.6 
+ 
+std 
+    0.00 
+    0.00 
+    0.58 
+    0.00 
+    0.00 
+    8.11 
+ 
+median    0.0 
+   54.0 
+   76.9 
+    0.0 
+   54.0 
+   75.1 
+ 
+min 
+    0.0 
+   54.0 
+   76.1 
+    0.0 
+   54.0 
+   54.0 
+ 
+max 
+    0.0 
+   54.0 
+   78.6 
+    0.0 
+   54.0 
+   78.6 
+ 
+Cumulative dose at end of study [2] n 
+   60 
+   28 
+   30 
+   86 
+   84 
+   84 
+ 
+mean     0.0 
+ 9918.6 
+14089.5 
+    0.0 
+ 5347.3 
+ 7551.0 
+ 
+std 
+    0.00 
+  603.84 
+  481.01 
+    0.00 
+ 3680.35 
+ 5531.04 
+ 
+median    0.0 
+ 9936.0 
+14080.5 
+    0.0 
+ 4455.0 
+ 5778.0 
+ 
+min 
+    0.0 
+ 7884.0 
+12960.0 
+    0.0 
+  108.0 
+   54.0 
+ 
+max 
+    0.0 
+11448.0 
+15417.0 
+    0.0 
+11448.0 
+15417.0 
+ 

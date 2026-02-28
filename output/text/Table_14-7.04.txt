@@ -1,0 +1,227 @@
+Protocol: CDISCPILOT01                                                                  Page  1 of 2 
+Population: Safety 
+Table 14-7.04 
+Summary of Concomitant Medications (Number of Subjects) 
+ 
+ 
+Source: C:\cdisc_pilot\PROGRAMS\DRAFT\TFLs\Conmeds.sas                   21:03 Monday, June 26, 2006 
+  
+ Therapeutic class, n (%) 
+Placebo 
+(N=86)  
+Xanomeline 
+Low Dose 
+  (N=84)   
+Xanomeline 
+High Dose 
+  (N=84)   
+Patients receiving at least one concomitant medication 77 (90%) 
+74 (88%) 
+78 (93%) 
+ 
+ALIMENTARY TRACT AND METABOLISM 
+12 (14%) 
+11 (13%) 
+ 9 (11%) 
+  CALCIUM 
+ 7 (8%) 
+ 6 (7%) 
+ 3 (4%) 
+  ALGELDRATE 
+ 2 (2%) 
+ 0 
+ 2 (2%) 
+  LOPERAMIDE HYDROCHLORIDE 
+ 1 (1%) 
+ 1 (1%) 
+ 1 (1%) 
+  METFORMIN HYDROCHLORIDE 
+ 1 (1%) 
+ 1 (1%) 
+ 0 
+  NIZATIDINE 
+ 1 (1%) 
+ 1 (1%) 
+ 4 (5%) 
+  CALCIUM CARBONATE 
+ 0 
+ 0 
+ 1 (1%) 
+  CIMETIDINE 
+ 0 
+ 1 (1%) 
+ 0 
+  SIMETICONE 
+ 0 
+ 2 (2%) 
+ 0 
+ 
+ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS 
+ 1 (1%) 
+ 0 
+ 1 (1%) 
+  LEUPRORELIN ACETATE 
+ 1 (1%) 
+ 0 
+ 1 (1%) 
+ 
+BLOOD AND BLOOD FORMING ORGANS 
+ 0 
+ 1 (1%) 
+ 0 
+  FERROUS SULFATE 
+ 0 
+ 1 (1%) 
+ 0 
+ 
+CARDIOVASCULAR SYSTEM 
+12 (14%) 
+12 (14%) 
+ 7 (8%) 
+  AMLODIPINE 
+ 8 (9%) 
+ 1 (1%) 
+ 2 (2%) 
+  FUROSEMIDE 
+ 2 (2%) 
+ 2 (2%) 
+ 1 (1%) 
+  NIFEDIPINE 
+ 2 (2%) 
+ 0 
+ 0 
+  DOXAZOSIN MESILATE 
+ 1 (1%) 
+ 2 (2%) 
+ 1 (1%) 
+  DIGOXIN 
+ 0 
+ 3 (4%) 
+ 2 (2%) 
+  DILTIAZEM HYDROCHLORIDE 
+ 0 
+ 0 
+ 1 (1%) 
+  FELODIPINE 
+ 0 
+ 1 (1%) 
+ 0 
+  FLUVASTATIN 
+ 0 
+ 2 (2%) 
+ 0 
+  LOSARTAN POTASSIUM 
+ 0 
+ 2 (2%) 
+ 0 
+ 
+DERMATOLOGICALS 
+ 0 
+ 0 
+ 1 (1%) 
+
+--- Page 2 ---
+Protocol: CDISCPILOT01                                                                  Page  2 of 2 
+Population: Safety 
+Table 14-7.04 
+Summary of Concomitant Medications (Number of Subjects) 
+ 
+ 
+Source: C:\cdisc_pilot\PROGRAMS\DRAFT\TFLs\Conmeds.sas                   21:03 Monday, June 26, 2006 
+  
+ Therapeutic class, n (%) 
+Placebo 
+(N=86)  
+Xanomeline 
+Low Dose 
+  (N=84)   
+Xanomeline 
+High Dose 
+  (N=84)   
+  CLOBETASOL PROPIONATE 
+ 0 
+ 0 
+ 1 (1%) 
+ 
+GENITO URINARY SYSTEM AND SEX HORMONES 
+ 6 (7%) 
+10 (12%) 
+ 5 (6%) 
+  ESTROGENS CONJUGATED 
+ 6 (7%) 
+10 (12%) 
+ 5 (6%) 
+ 
+NERVOUS SYSTEM 
+23 (27%) 
+14 (17%) 
+ 8 (10%) 
+  ACETYLSALICYLIC ACID 
+21 (24%) 
+11 (13%) 
+ 6 (7%) 
+  ALPRAZOLAM 
+ 1 (1%) 
+ 0 
+ 0 
+  DONEPEZIL HYDROCHLORIDE 
+ 1 (1%) 
+ 2 (2%) 
+ 2 (2%) 
+  SUMATRIPTAN 
+ 1 (1%) 
+ 0 
+ 0 
+  HALOPERIDOL 
+ 0 
+ 1 (1%) 
+ 0 
+  PAROXETINE HYDROCHLORIDE 
+ 0 
+ 1 (1%) 
+ 0 
+ 
+RESPIRATORY SYSTEM 
+ 4 (5%) 
+ 1 (1%) 
+ 4 (5%) 
+  SALBUTAMOL SULFATE 
+ 2 (2%) 
+ 1 (1%) 
+ 0 
+  GUAIFENESIN 
+ 1 (1%) 
+ 0 
+ 0 
+  IPRATROPIUM BROMIDE 
+ 1 (1%) 
+ 0 
+ 0 
+  NAPROXEN SODIUM 
+ 1 (1%) 
+ 0 
+ 3 (4%) 
+  BUDESONIDE 
+ 0 
+ 0 
+ 1 (1%) 
+ 
+SYSTEMIC HORMONAL PREPARATIONS, EXCL. 
+ 2 (2%) 
+13 (15%) 
+ 8 (10%) 
+  HYDROCORTISONE 
+ 2 (2%) 
+13 (15%) 
+ 8 (10%) 
+ 
+UNCODED 
+74 (86%) 
+70 (83%) 
+77 (92%) 
+  UNCODED 
+74 (86%) 
+70 (83%) 
+77 (92%) 
+ 
+ 

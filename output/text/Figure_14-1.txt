@@ -1,0 +1,11 @@
+CDISC Pilot 
+Page 1 of 1
+Population: Safety 
+Figure 14-1 
+Time to Dermatologic Event by Treatment Group 
+ 
+ 
+Note:  Dermatologic events were identified as adverse events associated with skin conditions such as rash, 
+pruritus, dermatitis.  A full list of adverse event terms is presented in the final study report. 
+Source: C:\cdisc_pilot\PROGRAMS\DRAFT\TFLs\kmfigure.sas                  21:45 Monday, June 26, 2006 
+ 

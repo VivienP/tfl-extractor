@@ -1,0 +1,97 @@
+Protocol: CDISCPILOT01                                                                  Page  1 of 1 
+Population: Efficacy 
+Table 14-3.10 
+ADAS Cog (11) - Mean and Mean Change from Baseline over Time 
+ 
+ 
+Source: C:\cdisc_pilot\PROGRAMS\DRAFT\TFLs\rtf_eff_time.sas              21:06 Monday, June 26, 2006 
+ 
+---Change from baseline--- 
+ 
+nc
+Mean 
+Std 
+Med. Min. Max.
+Bsln 
+Mean 
+Bsln
+Std 
+Mean 
+Std 
+Med. Min. Max.
+ 
+Placebo Baseline 
+ 79 24.1  12.19 21.0   5  61 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Week 8 (Windowed)  79 25.0  13.10 22.0   5  62  24.1  12.19  0.8   4.81  1.0 -12  16 
+ 
+Week 16 (Windowed) 68 25.1  13.42 21.0   5  63  23.4  11.32  1.7   5.92  2.0 -17  23 
+ 
+Week 24 (Windowed) 65 25.7  13.90 23.0   5  59  23.6  12.13  2.1   5.99  2.0 -11  16 
+ 
+Week 8 LOCF 
+ 79 25.0  13.10 22.0   5  62  24.1  12.19  0.8   4.81  1.0 -12  16 
+ 
+Week 16 LOCF 
+ 79 26.1  14.16 23.0   5  63  24.1  12.19  2.0   5.89  2.0 -17  23 
+ 
+Week 24 LOCF 
+ 79 26.7  13.79 24.0   5  62  24.1  12.19  2.5   5.80  2.0 -11  16 
+ 
+Xan.Low Baseline 
+ 81 24.4  12.92 21.0   5  57 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Week 8 (Windowed)  81 26.2  12.98 25.0   5  62  24.4  12.92  1.8   4.14  2.0 -12  14 
+ 
+Week 16 (Windowed) 42 26.2  12.23 25.0   8  53  25.0  12.52  1.2   4.33  1.0  -8  13 
+ 
+Week 24 (Windowed) 49 25.6  13.81 24.0   7  57  24.4  13.76  1.3   6.05  1.0 -11  17 
+ 
+Week 8 LOCF 
+ 81 26.2  12.98 25.0   5  62  24.4  12.92  1.8   4.14  2.0 -12  14 
+ 
+Week 16 LOCF 
+ 81 26.0  13.05 25.0   5  62  24.4  12.92  1.6   4.10  2.0  -9  14 
+ 
+Week 24 LOCF 
+ 81 26.4  13.18 25.0   6  62  24.4  12.92  2.0   5.55  2.0 -11  17 
+ 
+Xan.High Baseline 
+ 74 21.3  11.74 18.0   3  57 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Week 8 (Windowed)  74 22.3  12.41 19.0   2  62  21.3  11.74  1.0   3.62  1.0  -8  13 
+ 
+Week 16 (Windowed) 40 21.9  12.39 19.5   4  49  21.1  11.79  0.8   4.92  1.0 -11  10 
+ 
+Week 24 (Windowed) 41 21.8  12.38 19.0   3  45  20.1  11.13  1.7   4.74  1.0  -7  13 
+ 
+Week 8 LOCF 
+ 74 22.3  12.41 19.0   2  62  21.3  11.74  1.0   3.62  1.0  -8  13 
+ 
+Week 16 LOCF 
+ 74 22.5  12.33 20.0   4  62  21.3  11.74  1.2   4.33  1.0 -11  13 
+ 
+Week 24 LOCF 
+ 74 22.8  12.48 20.0   3  62  21.3  11.74  1.5   4.26  1.0  -7  13 
+ 

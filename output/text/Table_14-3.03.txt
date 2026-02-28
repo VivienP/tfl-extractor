@@ -1,0 +1,83 @@
+Protocol: CDISCPILOT01                                                                  Page  1 of 1 
+Population: Efficacy 
+Table 14-3.03 
+ADAS Cog (11) - Change from Baseline to Week 8 - LOCF 
+ 
+ 
+[1] Based on Analysis of covariance (ANCOVA) model with treatment and site group as factors and baseline 
+value as a covariate. 
+[2] Test for a non-zero coefficient for treatment (dose) as a continuous variable. 
+[3] Pairwise comparison with treatment as a categorical variable: p-values without adjustment for multiple 
+comparisons. 
+Source: C:\cdisc_pilot\PROGRAMS\DRAFT\TFLs\rtf_eff1.sas                  21:05 Monday, June 26, 2006 
+ 
+Placebo 
+ (N=79)  
+Xanomeline 
+ Low Dose 
+ (N=81)  
+Xanomeline 
+ High Dose 
+ (N=74)  
+Baseline 
+  n                                   79 
+  81 
+  74 
+  Mean (SD)                           24.1 (12.19) 
+  24.4 (12.92) 
+  21.3 (11.74) 
+  Median (Range)                      21.0 (5;61) 
+  21.0 (5;57) 
+  18.0 (3;57) 
+Week 8 
+  n                                   79 
+  81 
+  74 
+  Mean (SD)                           25.0 (13.10) 
+  26.2 (12.98) 
+  22.3 (12.41) 
+  Median (Range)                      22.0 (5;62) 
+  25.0 (5;62) 
+  19.0 (2;62) 
+Change from Baseline 
+  n                                   79 
+  81 
+  74 
+  Mean (SD)                            0.8 (4.81) 
+   1.8 (4.14) 
+   1.0 (3.62) 
+  Median (Range)                       1.0 (-12;16) 
+   2.0 (-12;14) 
+   1.0 (-8;13) 
+ 
+  p-value(Dose Response) [1][2]     
+ 
+ 
+  0.497 
+ 
+  p-value(Xan - Placebo) [1][3]     
+ 
+   0.099 
+   0.751 
+   Diff of LS Means (SE)            
+ 
+1.1 (0.65) 
+0.2 (0.67) 
+   95% CI                           
+ 
+(-0.2;2.4) 
+(-1.1;1.5) 
+ 
+  p-value(Xan High - Xan Low) [1][3]
+ 
+ 
+   0.195 
+   Diff of LS Means (SE)            
+ 
+ 
+-0.9 (0.66) 
+   95% CI                           
+ 
+ 
+(-2.2;0.4) 
+ 

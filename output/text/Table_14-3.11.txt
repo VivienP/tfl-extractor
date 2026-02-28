@@ -1,0 +1,51 @@
+Protocol: CDISCPILOT01                                                                  Page  1 of 1 
+Population: Efficacy 
+Table 14-3.11 
+ADAS Cog (11) - Repeated Measures Analysis of Change from Baseline to Week 24 
+ 
+ 
+Note: The change from baseline is calculated as the post-baseline score minus the baseline score. The 
+covariates included in the MMRM model are treatment, site group, time and treatment by time interaction, 
+baseline ADAS-Cog (11) score, and baseline ADAS-Cog (11) score by time interaction. 
+Source: C:\cdisc_pilot\PROGRAMS\DRAFT\TFLs\rtf_eff_mmrm.sas              21:06 Monday, June 26, 2006 
+ 
+Placebo 
+ (N=79)  
+Xanomeline 
+ Low Dose 
+ (N=81)  
+Xanomeline 
+ High Dose 
+ (N=74)  
+ 
+LS Means (SE)               
+   1.6 (0.49) 
+   1.5 (0.52) 
+   1.1 (0.56) 
+ 
+p-value(Xan - Placebo)      
+ 
+   0.955 
+   0.556 
+ Diff of LS Means (SE)      
+ 
+-0.0 (0.70) 
+-0.4 (0.72) 
+ 95% CI                     
+ 
+(-1.4;1.3) 
+(-1.9;1.0) 
+ 
+p-value(Xan High - Xan Low) 
+ 
+ 
+   0.606 
+ Diff of LS Means (SE)      
+ 
+ 
+-0.4 (0.75) 
+ 95% CI                     
+ 
+ 
+(-1.9;1.1) 
+ 
